@@ -1000,3 +1000,20 @@ body {
   }
 }
 
+@media (max-width: 767px) {
+  .top-bar .logo-3d img {
+    height: 20px !important; 
+  }
+  .top-bar .logo-3d div {
+    font-size: 12px; 
+    line-height: 1.1;
+  }
+
+  .top-bar .mobile-logo img {
+    height: 20px !important;
+  }
+  .top-bar .mobile-logo div {
+    font-size: 12px;
+    line-height: 1.1;
+  }
+}
